@@ -19,7 +19,6 @@ SO THAT I can plan a trip accordingly
 - City name, date, weather conditions icon, temperature, humidity, wind speed, UV index
 - UV index with color that indicates different conditions
 - 5-day forecast
-
 ```
 
 The following image demonstrates the application functionality:
