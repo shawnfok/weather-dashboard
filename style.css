@@ -1,0 +1,42 @@
+.current-weather-card {
+  width: 700px;
+  height: 20rem;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.search-card {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.nav-title {
+  color: white;
+  font-size: 28px;
+}
+
+.nav-icon {
+  width: 45px;
+  height: 45px;
+  margin-right: 15px;
+}
+
+.five-day {
+  width: 8.5rem;
+  height: 11rem;
+}
+
+.uv-index {
+}
+
+p {
+  line-height: 0.75rem;
+}
+
+#current {
+  padding: 0px 10px;
+}
+
+#city-input {
+  text-transform: capitalize;
+}
